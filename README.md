@@ -6,7 +6,7 @@ Hey, you welcome,
 
 ---
 
-### 🌟 **Software Engineer | Backend Specialist | Developer Extraordinaire**
+### 🌟 **Software Engineer | Backend Specialist | Dev**
 🌐 **Crafting elegant solutions for complex problems, one API call at a time.**  
 ⚙️ **Turning code into art with robust backend architectures and scalable systems.**  
 ✨ **Passionate about**: Clean code, optimized databases, and seamless integrations.  
@@ -28,14 +28,14 @@ Hey, you welcome,
 
 ---
 ### 🚀 **What I Do Best:**
-- **Backend Wizardry**: Rock-solid systems, fast APIs, and optimized databases.
-- **Frontend Flare**: Bringing clean, responsive designs to life.
-- **Problem-Solver Extraordinaire**: Turning complex challenges into elegant, scalable solutions.
+- **Backend**: Rock-solid systems, fast APIs, and optimized databases.
+- **Frontend**: Bringing clean, responsive designs to life.
+- **Problem-Solver**: Turning complex challenges into elegant, scalable solutions.
 
 ---
 
 ### 🎯 **Fun Facts About Me:**
-- 🎮 **Gamer by night**, **coder by day**.
+-  **Coder by night**, **writer by day**.
 - 🕵️‍♂️ Debugging is like solving a thrilling detective mystery.
 - 🌍 Great code = Great joke. It works without needing an explanation.
 
